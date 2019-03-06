@@ -1,0 +1,10 @@
+
+ -----------------------------------
+ Votos Totales =3521001
+ -----------------------------------
+ Candidato Correy = 19.999994319797125%  Votos de Correy= 704200
+ Candidato Khan = 63.00001050837531%  Votos de Khan= 2218231
+ Candidato Li = 13.999996023857989%  Votos de Li= 492940
+ Candidato O'Tooley = 2.999999147969569%  Votos de O'Tooley= 105630
+ -----------------------------------
+ Y EL GANADOR ES: Khan
